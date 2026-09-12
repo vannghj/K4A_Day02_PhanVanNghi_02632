@@ -36,8 +36,8 @@
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
 **AI đã dùng ở Phase 1 (nếu có):**
-- Prompt đã hỏi: "Tôi là thực tập sinh mảng AI & Dữ liệu, mỗi tuần làm 5 việc sau [liệt kê]. Liệt kê 10 điểm nghẽn lặp lại trong các việc đó, mỗi điểm ghi rõ ai chịu ảnh hưởng và có thể đo bằng chỉ số gì. Không đề xuất giải pháp."
-- Ý dùng được: nhắc tôi bổ sung problem #6 (note rải rác) và #9 (người nhận file hỏi lại) — hai việc tôi không tự nghĩ ra vì đã quen chịu đựng
+- Prompt đã hỏi: "Tôi đã có những vấn đề như này, bạn có thể nêu thêm vài ý để mình thanm khảo được khong"
+- Ý dùng được: nhắc tôi bổ sung problem #6 (note rải rác) và #9 (người nhận file hỏi lại) — hai việc tôi không tự nghĩ ra vì đã quen chịu đựng 
 - Ý bỏ vì không phải pain thật: "thiếu lộ trình học AI tổng thể", "khó quản lý thời gian", "thiếu mentor hướng dẫn sâu" — không có workflow cụ thể, không bấm giờ được, không có actor rõ ngoài việc than chung chung
 
 **Self-check Phase 1:**
